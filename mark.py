@@ -1,11 +1,15 @@
 import re
 
-f=open('output.txt')
+f=open('final_output.txt')
 rsent = f.readlines()
 count = 1
 
+print(rsent)
+
 fsent = []
 for sent in rsent:
+    if sent=='\t\t\t\n':
+        continue
     if sent.startswith('<Sentence'):
         fsent += ['<Sentence id="'+str(count)+'">\n']
         count+=1
