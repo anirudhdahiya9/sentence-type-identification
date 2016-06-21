@@ -1,0 +1,14 @@
+<Sentence id="1">			
+1	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+1.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+2	((	NP	<fs af='किताब,n,f,sg,3,d,0,0' head='किताब'>
+2.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+2.2	अच्छी	JJ	<fs af='अच्छी,adj,f,any,,any,,' name='अच्छी'>
+2.3	किताब	NN	<fs af='किताब,n,f,sg,3,d,0,0' name='किताब'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+3.2	.	SYM	<fs af='&डोट्;,punc,,,,,,' name='.'>
+	))		
+</Sentence>			
