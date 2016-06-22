@@ -1,3 +1,5 @@
+def getsen():
+
 import re
 
 f = open('compare_sentences.txt')
