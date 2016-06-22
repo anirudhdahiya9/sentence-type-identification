@@ -1,6 +1,6 @@
 import re
 
-f = open('sentences.txt')
+f = open('compare_sentences.txt')
 rsent = f.readlines()
 f.close()
 fsent = []
@@ -8,11 +8,14 @@ for l in range(len(rsent)):
     if rsent[l]=='\n':
         continue
     rsent[l] = rsent[l].strip()
-    match = re.search(r'([^\(]*)\(.*',rsent[l])
+    match = re.search(r'([^\(]*)(\(.*)',rsent[l])
     if match:
-        fsent+=[match.group(1) + '\n']
+        fsent+=[str(l) + match.group(2)]
         continue
-    fsent+=[rsent[l]+'\n']
+    #fsent+=[rsent[l]+'\n']
 
+print fsent
+
+'''
 f=open('outsent.txt','w')
-f.writelines(fsent)
+f.writelines(fsent)'''
