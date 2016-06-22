@@ -1,5 +1,5 @@
 def interrogative():
-    f=open('marked_output.txt')
+    f=open('final_output.txt')
     rsent = f.readlines()
     #improve
     sentid = 0

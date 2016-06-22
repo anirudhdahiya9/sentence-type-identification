@@ -3,7 +3,7 @@
 मेरा घर बिलासपुर में है.
 किसी भी विद्यार्थी ने उस पेज के सफ़ेद हिस्से के बारे में नहीं लिखा|
 सभी का ध्यान उस पेज पर बने छोटे से बिंदु पर था|
-विक्की अपनी दादी को बहुत प्यार करता था
+विक्की अपनी दादी को बहुत प्यार करता था|
 उन नन्हें तोतों मे मिठ्ठू नाम का एक तोता बड़ा शरारती और चंचल था।
 पके-पके ढेर से जामुन नीचे धूल में बिछ गये।
 र कहीं जाकर मुश्किल से हजार रूपया महीना मिलता है।
@@ -15,13 +15,13 @@
 धीरे-धीरे अँधेरा घिरने लगा और रात हो गई।
 हैपी के पिताजी की इस शहर में बदली हो गई थी।
 गोपी की उत्सुकता बढ़ती ही जा रही थी।
-मैं कल काम पर नही गया था.
+मैं कल काम पर नही गया था|
 विद्यार्थी कुछ समझ नहीं पा रहे थे कि उस खाली पेज के बारे में क्या लिखें!
 चलो मुझसे मज़ाक न करो। 
 तुम अब पढ़ो.
 कृपया सूर्यास्त से पहले घर आना.
 अपना कार्य अभी पूरा करो.
-आप को इस पेज पर जो कुछ भी नजर आ रहा है उसके बारे में लिखो
+आप को इस पेज पर जो कुछ भी नजर आ रहा है उसके बारे में लिखो|
 मुझे उन विद्यार्थियों के नामों की सूची चाहिए जो समारोह के दिन अनुपस्थित थे।"
 अब तुम अपनी सीट पर जाओ।
 प्यारे नातियों मेरे लिये भी थोड़े से जामुन गिरा दो।
@@ -33,7 +33,7 @@
 क्या ये नॉन-वेज डिश है?
 माँ, दादीजी कहाँ हैं?
 क्या तुम मेरे साथ दादी जी को देखने चलोगे?
-मैंने परसों क्या कहा था?"
+मैंने परसों क्या कहा था?
 "तब बहुत सारे बच्चे अनुपस्थित क्यों थे?”
 "क्या बात है?"
 दादा जी, यह तो बताइये कि आम गरम जामुन खायेंगे या ठंडी?
@@ -49,40 +49,6 @@
 'कौन सी कक्षा में पढ़ते हो?
 'कौन से स्कूल में?'
 बूढ़े और विद्वान खरगोश की समझ में बिलकुल भी न आया कि जामुन गरम भला कैसे होंगे?
-From script :
-Aditya:     Tum mujhse keh nahin sakti     thi? 
-Ek     phone nahin kar sakti thi?     
-Apna sab samaan lo, aur chalo. 
-Geet:     Aditya. Tum chale jao. 
-Aditya: Dekho. 
-Main is waqt bahut ghusse mein hoon.
-Mujhe aur ghussa mat dilao. 
-Chalo.
-Geet:      Nahin Aditya. 
-Maine apne liye yehi zindagi banayee hai.             
-Isi mein rahoongi main. 
-Aditya:     Tum apni ye Manohar kahaaniyan waali philosophy apne         paas rakho. 
-Tum abhi mere saath aa rahi ho 
-Geet:         Tum mujhe force nahin kar sakte ho         Aditya. 
-Chhhodo. 
-Kya kar rahe ho tum? 
-Main keh rahee hoon, chhodo. 
-Tum samajhte kya ho apne aap ko? 
-Mere saath ye sab ho gaya to ye mat sochna ki ab tumhaara chance hai, samjhe?
-Aditya:     Dhyaan mein rakhoonga. 
-Ab chalo. 
-Geet:         Tum kyon kar rahe ho ye sab?             
-Haan?
-Aditya:     Tumko vajah batana zaroori nahin hai.
-Apna samaan le kar aayo tum
-Geet:     Nahin Aditya. 
-Main tumse aur ehsaan nahin le sakti.
-Tumne pehle hi bahut kuch kiya hua mereliye aur...
-
-Aditya:     Maine bahut kuch kiya hai tumhaare liye?        
-Maine bahut kuch kiya hai?
-Main aaj zinda tumhaari vajah se hoon, you fool.
-Ye jo aaj main tumhaare saamne khada hoon,ye meri doosri zindagi hai, jo tumne mujhe dee hai.
 एक बार एक कौए को एक रोटी मिली। 
 लोमड़ी ने सोचा क्यों न मैं इस कौए को मूर्ख बनाकर रोटी ले लूँ।
 लोमड़ी बोली - कौए भाई तुम इतना अच्छा गाते हो!
@@ -280,7 +246,7 @@ Ye jo aaj main tumhaare saamne khada hoon,ye meri doosri zindagi hai, jo tumne m
 वह फौरन एक बड़ी चट्टान की आड़ में छिप गया। 
 धूप तेज थी, राजा साहब जरा दम लेने को घोड़े से उतरे। 
 अचानक मोती आड़ से निकल पड़ा और गरजता हुआ राजा साहब की ओर दौड़ा। 
-राजा साहब घबराकर भागे और एक छोटी झोंपड़ी में घुस गये। D)
+राजा साहब घबराकर भागे और एक छोटी झोंपड़ी में घुस गये। 
 जरा देर बाद मोती भी पहुंचा। 
 उसने राजा साहब को अंदर घुसते देख लिया था।
 पहले तो उसने अपनी सूंड़ से ऊपर का छप्पर गिरा दिया, फिर उसे पैरों से रौंदकर चूर-चूर कर डाला।
@@ -401,7 +367,7 @@ Ye jo aaj main tumhaare saamne khada hoon,ye meri doosri zindagi hai, jo tumne m
 उनके मुख से भय, विस्मय और निराशा से मिली हुई चीख निकल गई। 
 वह अपाहिज डाकू खड़गसिंह था।
 बाबा भारती कुछ देर तक चुप रहे और कुछ समय पश्चात् कुछ निश्चय करके पूरे बल से चिल्लाकर बोले, "ज़रा ठहर जाओ।"
-खड़गसिंह ने यह आवाज़ सुनकर घोड़ा रोक लिया और उसकी गरदन पर प्यार से हाथ फेरते हुए कहा,
+खड़गसिंह ने यह आवाज़ सुनकर घोड़ा रोक लिया और उसकी गरदन पर प्यार से हाथ फेरते हुए कहा, "बाबाजी, यह घोड़ा अब न दूँगा।"
 "परंतु एक बात सुनते जाओ।" 
 खड़गसिंह ठहर गया।
 बाबा भारती ने निकट जाकर उसकी ओर ऐसी आँखों से देखा जैसे बकरा कसाई की ओर देखता है और कहा, "यह घोड़ा तुम्हारा हो चुका है। 
