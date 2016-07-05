@@ -1,6 +1,6 @@
 import re
 
-f=open('final_parsed.txt')
+f=open('newparsed.txt')
 rsent = f.readlines()
 count = 1
 
@@ -16,8 +16,7 @@ for sent in rsent:
         print count
         continue
     fsent += sent
-        
 
-f=open('marked_parsed_output.txt','w')
+f=open('marked_newparsed_output.txt','w')
 f.writelines(fsent)
 f.close()

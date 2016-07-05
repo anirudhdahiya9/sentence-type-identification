@@ -1,4 +1,4 @@
-f=open('marked_parsed_output.txt')
+f=open('marked_newparsed_output.txt')
 rsent=f.readlines()
 fsent=[]
 for i in range(len(rsent)):
@@ -7,6 +7,6 @@ for i in range(len(rsent)):
             continue
     fsent+=[rsent[i]]
 
-f=open('final_output.txt','w')
+f=open('final_newoutput.txt','w')
 f.writelines(fsent)
 f.close()

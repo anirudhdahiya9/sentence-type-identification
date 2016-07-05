@@ -1,7 +1,7 @@
 def get_sen():
     import re
     tagsent={}
-    f = open('final_unparsed_compare.txt')
+    f = open('newdata.txt')
     rsent = f.readlines()
     f.close()
     fsent = []

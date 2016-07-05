@@ -1,5 +1,5 @@
 def imperative():
-    f=open('final_output.txt')
+    f=open('final_newoutput.txt')
     rsent = f.readlines()
     sentid = 0
     imsent = {}
